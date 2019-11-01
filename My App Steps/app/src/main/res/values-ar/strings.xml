@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Save it</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_article">ضف مقاله</string>
+    <string name="enter_url">اضف الرابط</string>
+    <string name="category_name">اسم التصنيف</string>
+    <string name="text_size">حجم الخط</string>
+    <string name="no_saved_articles">لا يوجد مقالات</string>
+    <string name="no_favorite_articles">لا يوجد مقالات مفضله</string>
+    <string name="welcome">مرحبا,</string>
+    <string name="these_are_your_saved_articles">هذه هي مقالاتك</string>
+    <string name="save_head">الراس المتنقل</string>
+    <string name="add_category">ضف تصنيف</string>
+    <string name="settings">الاعدادات</string>
+    <string name="about">حولنا</string>
+    <string name="change_font">تغيير الاحرف</string>
+
+    <string-array name="categories">
+        <item>ALL</item>
+        <item>BUSINESS</item>
+        <item>TECH</item>
+        <item>ECONOMICS</item>
+        <item>POLITICS</item>
+    </string-array>
+</resources>
